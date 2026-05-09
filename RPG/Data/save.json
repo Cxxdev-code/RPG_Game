@@ -1,12 +1,12 @@
 {
     "Nome": "Arthur",
     "Vida": 100,
-    "Nivel": 15,
+    "Nivel": 17,
     "Mana": 100,
     "Habilidade": "Golpe Inicial",
     "Arma": {
-        "nome": "Espada Curta",
+        "nome": "Machado de Batalha",
         "tipo": "corpo a corpo",
-        "dano": 16
+        "dano": 18
     }
 }
